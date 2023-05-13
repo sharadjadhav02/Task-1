@@ -6,3 +6,5 @@
 3. It is pretty much responsive, and it looks good on all devices, including desktops, laptops, tablets, and mobile phones.
 4. In terms of the technology, I used HTML, CSS, Tailwind CSS, and JavaScript with well-structured code.
 5. You Can View The Webpage Here: https://sharadjadhav02.github.io/Task-1/
+6. <img width="1440" alt="Screenshot 2023-05-13 at 1 37 08 AM" src="https://github.com/sharadjadhav02/Task-1/assets/130732706/25de9f5e-5891-401e-8628-5ba5c873a0f7">
+
